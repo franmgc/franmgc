@@ -7,4 +7,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=linux, bash, py, c, arduino, raspberrypi, java, matlab, octave, vscode)
+![My Skills](https://skillicons.dev/icons?i=linux,bash,py,c,arduino,raspberrypi,java,matlab,octave,vscode)
