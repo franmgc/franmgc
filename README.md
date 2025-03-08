@@ -1,4 +1,4 @@
-<h3 align="center">Student of Bachelor Degree in Telecommunication Technologies Engineering</h3>
+<h3 align="center">Telecommunications Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -7,4 +7,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=linux,bash,py,c,arduino,raspberrypi,java,matlab,octave,vscode)
+![My Skills](https://skillicons.dev/icons?i=linux,py,c,arduino,raspberrypi,matlab)
